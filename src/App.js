@@ -4,6 +4,7 @@ function App() {
   return (
     <>
       <MyApp />
+      Hi I am Ranga
     </>
   );
 }
